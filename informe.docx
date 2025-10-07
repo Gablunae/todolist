@@ -1,0 +1,16 @@
+1. Generalización simbólica: ¿Cuáles son las reglas escritas del lenguaje?
+   Reglas:
+
+  -Reglas de tipado estático
+  -Reglas de ámbito y alcance..
+  -Funciones puras y control secuencial.
+  -Sintaxis formal de Javascript.
+
+2. Creencias de los profesionales: ¿Qué características particulares del lenguaje se cree que sean "mejores" que en otros lenguajes?
+   Algunas creencias son:
+
+  -Fomenta funciones prácticas.
+  -Mejor soporte en herramientas.
+  -Compatibilidad con Javascript.
+  -Tipado estático previene errores.
+
